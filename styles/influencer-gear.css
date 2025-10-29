@@ -383,6 +383,9 @@ header{
     flex-direction: column-reverse;
     gap: 0px;
   }
+  .featured-products-container>img{
+    width: 100%;
+  }
   .feauter-2nd-part{
     text-align: center;
   }
